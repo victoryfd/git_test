@@ -1,3 +1,3 @@
 # git_test
-xdd
+git testing
 Hello Odin!
